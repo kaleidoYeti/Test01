@@ -49,9 +49,7 @@ public class ItemSpawnPoint : MonoBehaviour
 
     private IEnumerator OnFadeEffect()
     {
-        //돌아가는 효과?
-        //yield return new WaitForSeconds(6.0f);
-
+        yield return new WaitForSeconds(6.0f);
         while (true)
         {
             InfiniteLoopDetector.Run();
