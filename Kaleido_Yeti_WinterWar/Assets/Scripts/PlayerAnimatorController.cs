@@ -1,0 +1,42 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class PlayerAnimatorController : MonoBehaviour
+{
+    /*
+    private Animator animator;
+
+    private void Awake()
+    {
+        animator = GetComponentInChildren<animator>();
+    }
+
+    public float MoveSpeed()
+    {
+        set => animator.SetFloat("movementSpeed", value);
+        get => animator.GetFloat("movementSpeed");
+    }
+
+    public void OnReload()
+    {
+        animator.SetTrigger("OnReload");
+    }
+
+    public bool AimModeIs
+    {
+        set => animator.SetBool("isAimMode", value);
+        get => animator.GetBool("isAimMode");
+    }
+
+    public void Play(string stateName, int layer, float normalizedTime)
+    {
+        animator.Play(stateName, layer, normalizedTime);
+    }
+
+    public bool CurrentAnimationIs(string name)
+    {
+        return animator.GetCurrentAnimatorStateInfo(0).isName(name);
+    }
+    */
+}
