@@ -8,7 +8,6 @@ public enum ItemName { Heal = 0, SnowBallMaker, Booster, Goggles, Skeleton, Boom
  * Boom             (HP 감소)
  */
 /*Use
- * Tab키 입력 또는 Collider 감지
  */
 
 [System.Serializable]

@@ -378,6 +378,7 @@
 "Assets/Scripts/PlayerHUD.cs"
 "Assets/Scripts/RotateToMouse.cs"
 "Assets/Scripts/StageController.cs"
+"Assets/Scripts/StartMenu.cs"
 "Assets/Scripts/Status.cs"
 "Assets/Scripts/WeaponAssaultRifle.cs"
 "Assets/Scripts/WeaponBase.cs"
